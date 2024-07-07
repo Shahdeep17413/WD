@@ -1,0 +1,183 @@
+@media only screen and (max-width:1160px) {
+
+    .sec1-btn{
+        width: 100%;
+    }
+    .sec1-input1{
+        width: 100%;
+    }
+    .row{
+        display: block;
+       text-align: center;
+        
+    }
+    .col1-li{
+        display: none ;
+
+    }
+    .row1{
+        padding-top: 20px;
+       
+    }
+    .col2-li{
+        display: none;
+    }
+    .row2{
+        padding-top: 30px;
+    }
+   .col3-li{
+    display: none;
+   }
+   .row3{
+    padding-top: 30px;
+}
+.row4{
+    padding-top: 30px;
+}
+}
+
+
+@media only screen and (max-width:992px) {
+    .nav-list , .nav-list2{
+        display: none;
+    }
+
+.btn1{
+    display: none;
+}
+.off-p{
+    /* width: 100%; */
+    margin: 0 auto;
+}
+.mini{
+    width: 100%;
+}
+.sec1-p1{
+    width: 80%;
+    margin: 0 auto;
+}
+.sec3-1{
+    margin: 0 auto;
+    width: 100%;
+}
+
+.sec5-main{
+    display: block;
+}
+
+.sec5-cont{
+    width: 54%;
+    margin: 0 auto;
+    
+}
+.sec5-btn .sec5-btn1{
+    width: 100%;
+}
+
+.add{
+    display: block;
+    
+   
+}
+.add-h2{
+    margin: 0 auto;
+}
+.add-cont{
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+}
+
+@media only screen and (max-width:768px) {
+ 
+    .row{
+        display: block;
+        margin : 0 auto;
+        
+    }
+
+    .sec4-card{ 
+        display: block;  
+        /* padding-top: 20px; */
+    }
+
+    .sec4-card1{
+        margin: 0 auto;
+        width: 45%;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .sec4-logo{
+       margin-left: 100px;
+       padding:10px;
+    }
+    .sec4-h2{
+        text-align: center;
+        padding-top: 10px;
+    }
+
+    .sec4-card2-2{
+        display: none;
+    }
+    .sec4-btn{
+      display: block;
+      margin: 0 auto;
+    }
+    .sec6-h{
+        width: 60%;
+    }
+    .sec6-p{
+        width: 50%;
+    }
+    .sec6-4{
+        display: none;
+    }
+    .sec6-5{
+        display: none;
+    }
+    .add{
+        width: 100%;
+    }
+.add-cont{
+    margin: 0 auto;
+}
+
+} 
+
+@media only screen and (max-width:576px) {
+     .sec2-logos{
+        display: block;
+        margin: 0 auto;
+       
+    }
+    .sec1-input{
+        width: 100%;
+    }
+.sec4-card{ 
+        display: block;  
+        /* padding-top: 20px; */
+    }
+
+    .sec4-card1{
+        margin: 0 auto;
+        width: 45%;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .sec4-logo{
+       margin: 0 auto;
+       padding:10px;
+    }
+    .sec4-h2{
+        text-align: center;
+        padding-top: 10px;
+    }
+
+    .sec4-card2-2{
+        display: none;
+    }       
+  
+} 
